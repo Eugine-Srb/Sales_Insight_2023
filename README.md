@@ -85,3 +85,21 @@ Executives, analysts, and decision-makers who want a transparent, in-depth overv
 - **Power BI** (Data model, DAX metrics, visual dashboards)
 - **Python** (Custom table generation)
 - **Pandas, datetime** (light data prep)
+
+---
+
+## 📁 Project Structure
+
+/
+├── data/
+│ ├── Enhanced_Mock_Sales_Dashboard_Data.xlsx # Raw dataset
+│ ├── Sales_Report_Slim.xlsx # Transformed Excel dataset
+│ └── CI_Analysis.csv # Python-generated output
+│
+├── notebooks/
+│ └── CI_Analysis.ipynb # Python code for CI analysis
+│
+├── powerbi/
+│ └── Mock_Revenue_Analysis.pbix # Power BI dashboard file
+│
+├── README.md
