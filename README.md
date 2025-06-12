@@ -71,7 +71,7 @@ To analyze company revenue performance throughout the entire year of 2023 using 
 
 Executives, analysts, and decision-makers who want a transparent, in-depth overview of real revenue activity over a single year — with strong visual storytelling and zero guesswork.
 
-### 🤩 Tools Used
+### 🧩 Tools Used
 
 * **Power BI**: Data model, DAX metrics, visual dashboards
 * **Python**: Custom table generation
