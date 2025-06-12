@@ -102,7 +102,7 @@ Executives, analysts, and decision-makers who want a transparent, in-depth overv
 ### 💻 Run in Google Colab
 * Use this link to open and run the Python notebook in a cloud environment:
 
-* 🔗 [Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/CI_Analysis.ipynb)
+* 🔗 [Open in Colab](https://colab.research.google.com/drive/18TdahMbAtTh89zM0FduGzOra22I9xBUH?authuser=1#scrollTo=f071f99b-1d79-48f1-ac6a-3f46304562c2)
 * (Replace with your actual GitHub username and repo name.)
 
 ### 📊 Power BI Dashboard
