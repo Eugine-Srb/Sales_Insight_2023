@@ -95,24 +95,17 @@ Executives, analysts, and decision-makers who want a transparent, in-depth overv
 ├── README.md
 ```
 
-🔁 Reproducibility Notes
-Note: The file CI_Analysis.csv is already included in the data/ folder for direct use in Power BI.
+### 🔁 Reproducibility Notes
+* Note: The file CI_Analysis.csv is already included in the data/ folder for direct use in Power BI.
+* You can re-generate it by running the Python notebook located at notebooks/CI_Analysis.ipynb.
 
-You can re-generate it by running the Python notebook located at notebooks/CI_Analysis.ipynb.
+### 💻 Run in Google Colab
+* Use this link to open and run the Python notebook in a cloud environment:
 
-💻 Run in Google Colab
-Use this link to open and run the Python notebook in a cloud environment:
+* 🔗 [Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/CI_Analysis.ipynb)
+* (Replace with your actual GitHub username and repo name.)
 
-less
-Копировать
-Редактировать
-🔗 [Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/CI_Analysis.ipynb)
-(Replace with your actual GitHub username and repo name.)
+### 📊 Power BI Dashboard
+* The interactive dashboard will be published soon.
 
-📊 Power BI Dashboard
-The interactive dashboard will be published soon.
-
-css
-Копировать
-Редактировать
-🔗 [Power BI Report – Coming Soon]
+* 🔗 [Power BI Report – Coming Soon]
