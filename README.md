@@ -107,4 +107,4 @@ Executives, analysts, and decision-makers who want a transparent, in-depth overv
 ### 📊 Power BI Dashboard
 * The interactive dashboard will be published soon.
 
-* 🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiODY0MmVmNWYtNjg2My00MDVhLWE5ZjYtMDJhMmRiY2RhNDA3IiwidCI6IjQxOTI3ZjQyLTQ2NWMtNDFmOS1iYzAwLTUxMTVjM2QzNTE3NCIsImMiOjl9)
+* 🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDA2NjhhZGItNzkxMy00ODljLTg4OTctYzNjZDdiOGM4MWNjIiwidCI6IjQxOTI3ZjQyLTQ2NWMtNDFmOS1iYzAwLTUxMTVjM2QzNTE3NCIsImMiOjl9)
