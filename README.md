@@ -69,7 +69,7 @@ To analyze company revenue performance throughout the entire year of 2023 using 
 
 ### 👥 Intended Audience
 
-Executives, analysts, and decision-makers who want a transparent, in-depth overview of real revenue activity over a single year — with strong visual storytelling and zero guesswork.
+Executives, analysts, and decision-makers who want a transparent, an in-depth overview of revenue activity over a single year — with strong visual storytelling and zero guesswork.
 
 ### 🧩 Tools Used
 
