@@ -105,6 +105,5 @@ Executives, analysts, and decision-makers who want a transparent, in-depth overv
 * 🔗 [Open in Colab](https://colab.research.google.com/drive/18TdahMbAtTh89zM0FduGzOra22I9xBUH?authuser=1#scrollTo=f071f99b-1d79-48f1-ac6a-3f46304562c2)
 
 ### 📊 Power BI Dashboard
-* The interactive dashboard will be published soon.
 
 * 🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDA2NjhhZGItNzkxMy00ODljLTg4OTctYzNjZDdiOGM4MWNjIiwidCI6IjQxOTI3ZjQyLTQ2NWMtNDFmOS1iYzAwLTUxMTVjM2QzNTE3NCIsImMiOjl9&pageName=c47665786b1b50502d0a)
