@@ -53,7 +53,7 @@ To analyze company revenue performance throughout the entire year of 2023 using 
 
 * All calculations and logic done with **DAX** in Power BI
 * **No machine learning or predictive analytics** used in this version
-* **Python** was used only for generating a custom supporting table
+* **Python** was used only to generate a supporting analytical table for CI-based visualizations
 
 ### ⚠️ Limitations
 
