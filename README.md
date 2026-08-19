@@ -106,4 +106,4 @@ Executives, analysts, and decision-makers who want a transparent, an in-depth ov
 
 ### 📊 Power BI Dashboard
 
-* 🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDA2NjhhZGItNzkxMy00ODljLTg4OTctYzNjZDdiOGM4MWNjIiwidCI6IjQxOTI3ZjQyLTQ2NWMtNDFmOS1iYzAwLTUxMTVjM2QzNTE3NCIsImMiOjl9&pageName=c47665786b1b50502d0a)
+* 🔗 [Power BI Report]([https://app.powerbi.com/view?r=eyJrIjoiMDA2NjhhZGItNzkxMy00ODljLTg4OTctYzNjZDdiOGM4MWNjIiwidCI6IjQxOTI3ZjQyLTQ2NWMtNDFmOS1iYzAwLTUxMTVjM2QzNTE3NCIsImMiOjl9&pageName=c47665786b1b50502d0a](https://app.powerbi.com/view?r=eyJrIjoiYzM2MzYyNmEtZjhiNi00OGE3LWI1MWItMDliYzk2Y2JkZTI0IiwidCI6IjQxOTI3ZjQyLTQ2NWMtNDFmOS1iYzAwLTUxMTVjM2QzNTE3NCIsImMiOjl9))
